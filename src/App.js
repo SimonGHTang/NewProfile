@@ -1,24 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div classname="introduction">
+      <h1>
+        Hiya! I'm Simon Tang! I'm a software engineer based in Sydney Australia. I am to begin my 3rd year in University!
+      </h1>
     </div>
   );
 }
