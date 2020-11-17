@@ -8,4 +8,4 @@ function AboutMe() {
   )
 }
 
-export default AboutMePage;
+export default AboutMe;
