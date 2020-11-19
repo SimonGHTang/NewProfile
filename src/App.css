@@ -38,6 +38,12 @@
 }
 
 .introduction {
-  display: flex;
+  margin: 10px;
+  text-align: center;
   text-size-adjust: 10px !important;
+}
+
+.landing-header {
+  margin: 10px;
+  text-align: center;
 }
